@@ -132,17 +132,17 @@ http.request(url, successfunction);
 //Requests Data from URL and executes successfunction
 //With recieved data
 ```
-###Others
+###Array Functions
 ___
-No Others At The Moment.
+
+###Math Library
+___
 
 
 > ###Todo:
 
-> Create Graphic for Circle, Line ect...
+> Create Graphic for Circle, Line ect.... Add Docs for Text
 
-> Add Docs for User Input
+> Add Docs for User Input, Arrays.
 
-> Add Docs for sound functions + Add Bkground Music
-
-> Build game logic for tweening... Collision checkr.
+> Build game logic for tweening... Collision checkr function.
